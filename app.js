@@ -25,17 +25,15 @@ const components = [
     title: "Abstract-Presentation (5 minutes)",
     link: "https://docs.google.com/document/d/17jlousBsV-Va-Aud11ZgP2NtASpnmi9V/edit?usp=drive_link&ouid=102786220991848390539&rtpof=true&sd=true",
   },
-  {
-    title: "Video Self-Presentation (20 minutes)",
-    link: "https://drive.google.com/file/d/VIDEO_20_MIN_ID/view?usp=sharing",
-  },
+  
+    
   {
     title: "Invention / Innovation",
-    link: "https://docs.google.com/presentation/d/1KYG0zP1D9RB97u9M_5H1LaflXPvfAb16/edit?usp=drive_link&ouid=102786220991848390539&rtpof=true&sd=true",
+    link: "https://drive.google.com/file/d/1owg5_7o27dgbsS_iErWV6ntolR7tpVHJ/view?usp=drive_link",
   },
   {
     title: "African Culture Video",
-    link: "https://drive.google.com/file/d/AFRICAN_CULTURE_VIDEO_ID/view?usp=sharing",
+    link: "https://docs.google.com/presentation/d/10rXQFyg4xDUUr3iblMG3SdQ1MLLMDnrd/edit?usp=drive_link&ouid=102786220991848390539&rtpof=true&sd=true",
   },
   {
     title: "Photographic Essay",
@@ -49,7 +47,7 @@ const components = [
     link: "https://docs.google.com/presentation/d/15c9rZX08W__gi4yBKxoxlbUT5IHY1sf7/edit?usp=drive_link&ouid=102786220991848390539&rtpof=true&sd=true",
   },{
     title: "proffessional online presence",
-    link: "https://docs.google.com/presentation/d/1ojFgrii9eL7FOudIPvvWlXg1fcOy0nPT/edit?usp=drive_link&ouid=102786220991848390539&rtpof=true&sd=true",
+    link: "https://docs.google.com/document/d/1bsFh-b84JICEcYFa-7d4-2R_SbdWlnY0/edit?usp=drive_link&ouid=102786220991848390539&rtpof=true&sd=true",
   },
 ];
 
